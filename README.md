@@ -3,8 +3,8 @@
 Upgrade to my Koikatsu BE PLugin, allows you to age up character's bodies during H scenes.
 
 ## What does this mod do?
-Body Maturity of characters increases according to arousal meter and orgasm count</br>
-Supports multiple H modes like group and darkness mode</br>
+Body Maturity of characters increases according to arousal meter and orgasm count.</br>
+Supports multiple H modes like group and darkness mode.</br>
 if you want to use it for only BE functionality, you can disable all non-breast body growth.
 
 
