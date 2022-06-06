@@ -6,6 +6,9 @@ Upgrade to my Koikatsu BE PLugin, allows you to age up character's bodies during
 Body Maturity of characters increases according to arousal meter and orgasm count</br>
 Supports multiple H modes like group and darkness mode
 
+
+![alt text](https://github.com/SynchronisedNerdism/KK_AgeProgression/blob/12183846478e30c76937b1ee0ef9a08d6d2407db/AgeProShowcase.png?raw=true)
+
 ### Settings:
 Can be changed via plugin settings under Options
 - Enable or disable the mod
