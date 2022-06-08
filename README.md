@@ -27,7 +27,7 @@ Can be changed via plugin settings under Options
 ## How to install
 1. You need version BepInEx(tested on version 5.4)
 2. Download the newest release of the mod
-3. Unzip the dll file into the BepInEx folder(put in plugins folder if present)
+3. Unzip the zip/tar files and put the dll file into the BepInEx folder(put in plugins folder if present)
 4. Open the game and enjoy!
 
 ## How to update
