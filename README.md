@@ -23,6 +23,7 @@ Can be changed via plugin settings under Options
 - Enable/disable which body parts to age up
 - Change Start and End Sizes of body parts are aged up
 
+You can change these settings in the Bepinex plugins menu under Koikatsu settings and scroll to the Age Progression section
 
 ## How to install
 1. You need version BepInEx(tested on version 5.4)
